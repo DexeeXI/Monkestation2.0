@@ -24,6 +24,9 @@
 /datum/reagent/blob
 	restricted = TRUE
 
+/datum/reagent/xenomicrobes
+	restricted = TRUE  // this is why we cant have nice things.
+
 // Reagents that aren't entirely useless but there's a bajillion subtypes and thus the pick is biased.
 /datum/reagent/carpet
 	random_weight = 2
